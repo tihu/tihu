@@ -12,7 +12,7 @@ disablePathToLower = true
 hasCJKLanguage = true
 summaryLength = 140
 
-disqusShortname = "disqus_tihucomment"  ## 是否开启disqus评论，不要和utteranc同时开启
+## disqusShortname = "disqus_tihucomment"  ## 是否开启disqus评论，不要和utteranc同时开启
 
 [author]
   name = "tihu"
@@ -47,6 +47,12 @@ disqusShortname = "disqus_tihucomment"  ## 是否开启disqus评论，不要和u
   [markup.highlight]
     lineNos = true
     style = "github"
+
+[params.utteranc]
+    enable = true
+    repo = "tihu/tihu-blog-comment"    # 存储评论的Repo，格式为 owner/repo
+    issueTerm = "pathname"  #表示你选择以那种方式让github issue的评论和你的文章关联。
+    theme = "github-dark" # 样式主题，有github-light和github-dark两种
 
 ## 配置网站菜单
 
