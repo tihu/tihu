@@ -54,6 +54,14 @@ summaryLength = 140
     issueTerm = "pathname"  #表示你选择以那种方式让github issue的评论和你的文章关联。
     theme = "github-dark" # 样式主题，有github-light和github-dark两种
 
+[params.sequenceDiagrams]
+    enable = true
+    options = ""            # default: "{theme: 'simple'}"
+
+[params.flowchartDiagrams]
+    enable = true
+    options = ""
+
 ## 配置网站菜单
 
 [menu]
@@ -66,7 +74,7 @@ summaryLength = 140
 
   [[menu.main]]
     identifier = "archives"
-    name = "归档"
+    name = "年份"
     url = "/archives/"
     weight = 3
 
