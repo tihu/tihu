@@ -22,6 +22,12 @@
                     阅读</span></span>
         </div>
         {{ end }}
+        {{ if .Site.Params.moreMeta }}
+        <div class="post-meta">
+            <span>| 约 {{ .WordCount }} 字</span>
+            <span>| 预计阅读 {{ .ReadingTime }} 分钟</span>
+        </div>
+        {{ end }}
         {{ if .Params.toc }}
         <div class="clear" style="display: none">
             <div class="toc-article">
