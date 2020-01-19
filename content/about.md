@@ -14,19 +14,4 @@ title = "About"
 醍醐 醍醐 有山便有木 拨开云雾 遇猕则止 遇书而入
 
 
-记述者。
-  
-消防员。糕点师。
-  
-格西。大手印。
-  
-deus ex machina.
-  
-Warlock.Noveletter.
-  
-coder.cyber.
-  
-Fortuneteller. imagineer.
-  
-你可以叫我醍醐，这是一种很棒的小点心，如果你喜欢，我可以教你做。
 

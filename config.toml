@@ -10,7 +10,7 @@ preserveTaxonomyNames = true
 disablePathToLower = true
 
 hasCJKLanguage = true
-summaryLength = 140
+summaryLength = 70
 
 ## disqusShortname = "disqus_tihucomment"  ## 是否开启disqus评论，不要和utteranc同时开启
 
@@ -61,6 +61,11 @@ summaryLength = 140
 [params.flowchartDiagrams]
     enable = true
     options = ""
+
+[taxonomies]
+    tag = "tags"
+    series = "series"
+    category = "categories"
 
 ## 配置网站菜单
 
