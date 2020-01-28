@@ -10,7 +10,7 @@ preserveTaxonomyNames = true
 disablePathToLower = true
 
 hasCJKLanguage = true
-summaryLength = 70
+summaryLength = 140
 
 ## disqusShortname = "disqus_tihucomment"  ## 是否开启disqus评论，不要和utteranc同时开启
 
@@ -23,7 +23,7 @@ summaryLength = 70
   keywords = "tihu,志怪,阅读,笔记体,南北朝"
   description = "tihu,志怪,阅读,笔记体,南北朝"
   busuanzi = true #启用不算子网页统计
-  googleAd = "ca-pub-4031353640611810"  #ca-pub-xxxxxxxxxxxxxx
+  #googleAd = "ca-pub-4031353640611810"  #ca-pub-xxxxxxxxxxxxxx
   localSearch = true # 启用本地搜索
 
   # 这里我存放在了主题的static文件夹里，根目录的似乎也可以
