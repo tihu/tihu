@@ -1,16 +1,24 @@
 +++
 date = "2019-12-18T09:50:48+08:00"
 draft = false
-title = "About"
-
-
+title = "关于博主"
 +++
-## *定场俳*
-窗外一条路,路边一棵树,树下一只鹿,鹿背驮白狐.
+*醍醐，即tihu。*
 
-狐仙,狐仙,前方迷雾,何处是出路？
+## *定场诗*
+窗外一条路，路边一棵树，树下一只鹿，鹿背驮白狐。
 
-醍醐,醍醐!有山便有木,拨开云雾,遇靡则止,遇书而入.
+狐仙，狐仙，前方迷雾，何处是出路？
+
+醍醐，醍醐！有山便有木，拨开云雾，遇靡则止，遇书而入。
+
+## *博主是谁*
++ Podcast*2082FM*三主播之一。
++ 笔记体小说作者，南北朝与五代十国研究者。
++ 十年互联网从业者，Product manager。
++ 幻想文学行业观察者。
++ 前端小学生，python幼稚园。
++ 唯一代表作《醍醐堂记》。
 
 ## *2082FM节目单*
 **[Podcast:2082FM](https://anchor.fm/2082)**
@@ -21,5 +29,6 @@ title = "About"
 | 𝟚 | 温故2010<下> | [链接](https://www.ximalaya.com/diantai/32544603/244701309) | [链接](https://www.lizhi.fm/154971936/5089021321961484934)  | [链接](http://share.qingting.fm/vchannels/340916/programs/14119992)  | [链接](http://fm.qzone.qq.com/luobo/radio?_wv=1&aid=rd001qPu0E1TZysx&showid=rd0029nXIB1zX3Sy)  | [链接](https://music.163.com/#/program?id=2064982562)  |
 | 𝟛 | 姜子牙与他的神话宇宙 | [链接](https://www.ximalaya.com/diantai/32544603/245678805) | [链接](https://www.lizhi.fm/154971936/5089770798863818886)  | [链接](http://share.qingting.fm/vchannels/340916/programs/14155192)  | [链接](http://fm.qzone.qq.com/luobo/radio?_wv=1&aid=rd001qPu0E1TZysx&showid=rd0029nXIB1zX3Sy)  | [链接](https://music.163.com/#/program?id=2065027799)  |
 
-
-
+## *关于本站*
++ 本站始于2005年。
++ 目前采用Hugo静态博客，部署在github。
