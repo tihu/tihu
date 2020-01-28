@@ -5,7 +5,8 @@ draft = "false"
 Tags = ["六州杂记"]
 categories = ["非虚构类"]
 +++
-《血疫：埃博拉的故事》
+*《血疫：埃博拉的故事》*
+*《THE HOT ZONE》*
 
 ![血疫](https://img1.doubanio.com/view/subject/l/public/s30010617.jpg "<the hot zone>中文版封面")
 
