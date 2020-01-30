@@ -3,7 +3,7 @@ title = "血色女王与她的红色房间"
 date = 2020-01-28T00:18:33+08:00
 draft = "false"
 Tags = ["六州杂记"]
-categories = ["非虚构类"]
+categories = ["读书笔记"]
 +++
 *《血疫：埃博拉的故事》*
 *《THE HOT ZONE》*
