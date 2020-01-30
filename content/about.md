@@ -31,3 +31,9 @@ title = "关于博主"
 ## *关于本站*
 + 本站始于2005年。
 + 目前采用Hugo静态博客，部署在github。
+
+## *正在播放*
+<iframe height="36" width="260" src="http://www.ximalaya.com/swf/sound/red.swf?id=245678805" frameborder=0 allowfullscreen></iframe>
+
+
+
